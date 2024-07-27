@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/projects/</link>
+    <description>Recent content in Projects on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Recommendation System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/movie_reco/</link>
+      <pubDate>Tue, 27 Jun 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/movie_reco/</guid>
+      <description>PROJECT REPORT: MOVIE RECOMMENDATION SYSTEM CONCEPT The Movie Recommendation System project aims to develop a movie recommendation system that suggests movies to users based on their preferences. The objective is to provide personalized movie recommendations using various recommendation methods, including content-based filtering (most popular movies), collaborative filtering, and user-specific recommendations.
+DATA The movie data for this project is gathered from the following sources:
+MovieLens: 27,000,000 ratings and 1,100,000 tag applications applied to 58,000 movies by 280,000 users.</description>
+    </item>
+    
+    <item>
+      <title>Disaster Response Pipeline</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</link>
+      <pubDate>Sat, 23 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</guid>
+      <description>PROJECT REPORT: DISASTER RESPONSE PROJECT Web Interface CONCEPT
+The goal of the Disaster-Response-Pipeline project was to develop a machine learning pipeline that could accurately categorize emergency messages received during a disaster event. The objective was to create an automated system that could quickly identify and classify relevant messages, enabling emergency responders to prioritize and respond effectively to different types of emergencies.
+DATA
+The dataset used for this project was obtained from Figure Eight, now Appen, and consisted of labeled text messages related to various disaster scenarios.</description>
+    </item>
+    
+    <item>
+      <title>Fingerprint Verification System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/fingerprint/</link>
+      <pubDate>Sun, 03 Jul 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/fingerprint/</guid>
+      <description>PROJECT REPORT: FINGERPRINT VERIFICATION SYSTEM Led a team of six data scientists and engineers to design and implement a highly secure biometric user authentication system using Neural Fuzzy Extractor (NFE) and Artificial Neural Networks (ANN), achieving a marginal improvement in the equal error rate (EER) from 5.75% to 5.82%, while ensuring minimal loss of FVC2006 fingerprint data. Enhanced the precision of the fingerprint data by formulating a robust deep learning algorithm, specifically a Siamese Network with a triplet loss function, resulting in an Area Under Curve (AUC) score of 0.</description>
+    </item>
+    
+    <item>
+      <title>Rental Bike Share</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</link>
+      <pubDate>Mon, 27 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</guid>
+      <description>PROJECT REPORT: RENTAL BIKE SHARE This is an ongoing project. Please visit the GitHub repository: GitHub link to get the latest progress.
+CONCEPT
+The Rental Bike Share project aims to develop a system for managing and optimizing the rental of bikes in a city. The goal is to provide a user-friendly platform that allows users to easily rent bikes and helps the bike rental company in efficiently managing their inventory and operations.</description>
+    </item>
+    
+    <item>
+      <title>Customer Spending Pojections at Starbucks</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</link>
+      <pubDate>Thu, 11 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</guid>
+      <description>PROJECT REPORT: CUSTOMER SPENDING PROJECTIONS AT STARBUCKS CONCEPT
+The Customer Spending Projections at Starbucks project aimed to analyze Starbucks&amp;rsquo; sales data to understand customer spending patterns and provide insights for offering personalized coupons and recommendations. The project leveraged a dataset consisting of customer profiles, promotional offers, and transaction logs to gain insights into purchase decisions and offer influence.
+DATASET OVERVIEW
+The dataset comprised three files: profile.json, portfolio.json, and transcript.json. The profile file contained information about rewards program users, including gender, age, income, and membership details.</description>
+    </item>
+    
+    <item>
+      <title>Airbnb Housing Price Analysis</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</link>
+      <pubDate>Sun, 24 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</guid>
+      <description>PROJECT REPORT: AIRBNB HOUSING PRICE ANALYSIS CONCEPT
+The Airbnb Housing Price Analysis project aimed to explore and answer key business questions related to Airbnb data in Boston and Seattle. The analysis focused on determining the cheaper place to stay, the best time to visit, the popularity of each city among visitors, and the popular areas to stay along with the recommended type of housing.
+DATA
+The project utilized datasets for Boston and Seattle from Airbnb, including listings and calendar data.</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendation System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/book_reco/</link>
+      <pubDate>Sun, 27 Jun 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/book_reco/</guid>
+      <description>PROJECT REPORT: BOOK RECOMMENDATION SYSTEM CONCEPT The Book Recommendation System project aims to develop a book recommendation system that suggests books to users based on their preferences. The objective is to provide personalized book recommendations using collaborative filtering.
+DATA The book data for this project is gathered from the following sources:
+Goodreads API: An API that provides access to book data, including book titles, authors, genres, ratings, and reviews. APPROACH The project utilizes the following workflows to generate book recommendations:</description>
+    </item>
+    
+    <item>
+      <title>Computer Pointer Controller</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/computer_pointer/</link>
+      <pubDate>Thu, 27 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/computer_pointer/</guid>
+      <description>PROJECT REPORT: COMPUTER POINTER CONTROLLER Computer Pointer Controller app is built using Intel OpenVINO toolkit. This app is used to control mouse pointer using our eye and head movement. We can use a recorded video stream or a webcam directly for the input.
+Project Set Up and Installation To do this project, we need to first download the OpenVINO toolkit in our local machine. Instructions can be found here.
+To activate the environment open command prompt in windows then:</description>
+    </item>
+    
+    <item>
+      <title>People Counter App</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/people_counter/</link>
+      <pubDate>Tue, 13 Apr 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/people_counter/</guid>
+      <description>PROJECT REPPORT: PEOPLE COUNTER APP Programming Language: Python 3.5 or 3.6 What it Does The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. The app will detect people in a designated area, providing the number of people in the frame, average duration of people in frame, and total count.
+How it Works The counter will use the Inference Engine included in the Intel® Distribution of OpenVINO™ Toolkit.</description>
+    </item>
+    
+  </channel>
+</rss>

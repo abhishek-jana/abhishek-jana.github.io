@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recommendation on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/recommendation/</link>
+    <description>Recent content in recommendation on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Jun 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/recommendation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Recommendation System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/movie_reco/</link>
+      <pubDate>Tue, 27 Jun 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/movie_reco/</guid>
+      <description>PROJECT REPORT: MOVIE RECOMMENDATION SYSTEM CONCEPT The Movie Recommendation System project aims to develop a movie recommendation system that suggests movies to users based on their preferences. The objective is to provide personalized movie recommendations using various recommendation methods, including content-based filtering (most popular movies), collaborative filtering, and user-specific recommendations.
+DATA The movie data for this project is gathered from the following sources:
+MovieLens: 27,000,000 ratings and 1,100,000 tag applications applied to 58,000 movies by 280,000 users.</description>
+    </item>
+    
+    <item>
+      <title>Customer Spending Pojections at Starbucks</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</link>
+      <pubDate>Thu, 11 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</guid>
+      <description>PROJECT REPORT: CUSTOMER SPENDING PROJECTIONS AT STARBUCKS CONCEPT
+The Customer Spending Projections at Starbucks project aimed to analyze Starbucks&amp;rsquo; sales data to understand customer spending patterns and provide insights for offering personalized coupons and recommendations. The project leveraged a dataset consisting of customer profiles, promotional offers, and transaction logs to gain insights into purchase decisions and offer influence.
+DATASET OVERVIEW
+The dataset comprised three files: profile.json, portfolio.json, and transcript.json. The profile file contained information about rewards program users, including gender, age, income, and membership details.</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendation System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/book_reco/</link>
+      <pubDate>Sun, 27 Jun 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/book_reco/</guid>
+      <description>PROJECT REPORT: BOOK RECOMMENDATION SYSTEM CONCEPT The Book Recommendation System project aims to develop a book recommendation system that suggests books to users based on their preferences. The objective is to provide personalized book recommendations using collaborative filtering.
+DATA The book data for this project is gathered from the following sources:
+Goodreads API: An API that provides access to book data, including book titles, authors, genres, ratings, and reviews. APPROACH The project utilizes the following workflows to generate book recommendations:</description>
+    </item>
+    
+  </channel>
+</rss>

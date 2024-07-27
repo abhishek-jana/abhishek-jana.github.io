@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/publications/</link>
+    <description>Recent content in Publications on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Mar 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secure architecture for biometric authentication</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub3/</link>
+      <pubDate>Thu, 30 Mar 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub3/</guid>
+      <description>Inventors: George T Amariucai, Pascal Hitzler, Abhishek Jana, Monireh Ebrahimi, Md Kamruzzaman Sarker
+Patent office: US
+Year: 2023
+Link: Link to Patent
+Abstract: Computer-implemented methods, systems and computer-readable media for building and using an artificial intelligence model for secure biometric authentication. Utilizing difference vectors, the model securely relates output vectors generated from noisy biometric data of a plurality of enrolled users to pre-defined fixed points in a vector space.</description>
+    </item>
+    
+    <item>
+      <title>Constraining Galaxy Halo Connection Using Machine Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub2/</link>
+      <pubDate>Sun, 15 Jan 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub2/</guid>
+      <description>Authors: Abhishek Jana, Lado Samushia
+Conference/Journal: American Astronomical Society Meeting Abstracts
+Year: 2023
+Link: Link to Publication
+Abstract: We investigate the possibility of modeling various measures of small-scale galaxy clustering with machine learning methods to constrain parameters of the halo occupation distribution (HOD) model. Using ML techniques results in faster Markov Chain Monte Carlo convergence (within minutes). We find that great care must be taken when using machine learning algorithms in this regime.</description>
+    </item>
+    
+    <item>
+      <title>Neural fuzzy extractors: A secure way to use artificial neural networks for biometric user authentication</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub1/</link>
+      <pubDate>Tue, 15 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub1/</guid>
+      <description>Authors: Abhishek Jana, Md Kamruzzaman Sarker, Monireh Ebrahimi, Pascal Hitzler, George T Amariucai
+Year: 2022
+Conference/Journal: Proceedings on Privacy Enhancing Technologies, 4, 86-104.
+Link: Link to Publication
+Abstract: In this paper, we introduce a secure way to handle user-specific information involved with the use of artificial neural networks for biometric authentication. Our proposed architecture, called a Neural Fuzzy Extractor (NFE), allows the coupling of pre-existing classifiers with fuzzy extractors, through an artificial-neuralnetwork-based buffer called an expander, with minimal or no performance degradation.</description>
+    </item>
+    
+    <item>
+      <title>Possibilities of Present Day Acceleration Using Double Scalar Field</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub5/</link>
+      <pubDate>Sun, 15 Mar 2015 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub5/</guid>
+      <description>Authors: Abhishek Jana
+Conference/Journal: Indian Institute of Science Education and Research Kolkata
+Year: 2016
+Link: Link to Publication
+Abstract: The present work deals with a dark energy model with two scalar fields. Such a model has been proved to be successful in providing a model for in ation in the early universe. With two scalar fields, one has a better handle on the model parameters. The ultimate motivation is to use this freedom to construct a model which can drive acceleration both at early and the late time acceleration.</description>
+    </item>
+    
+    <item>
+      <title>ScalPy: A Python Package For Late Time Scalar Field Cosmology</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub4/</link>
+      <pubDate>Sun, 15 Mar 2015 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub4/</guid>
+      <description>Authors: Sumit Kumar, Abhishek Jana, Anjan A Sen
+Conference/Journal: arXiv preprint arXiv:1503.02407
+Year: 2015
+Link: Link to Publication
+Abstract: We present a python package &amp;ldquo;ScalPy&amp;rdquo; for studying the late time scalar field cosmology for a wide variety of scalar field models, namely the quintessence, tachyon and Galileon model. The package solves the autonomous system of equations for power law and exponential potential. But it can be easily generalized to add more complicated potential.</description>
+    </item>
+    
+  </channel>
+</rss>

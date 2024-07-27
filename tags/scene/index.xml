@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/scene/</link>
+    <description>Recent content in scene on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter IV: Master Jacques Coppenole</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/project-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/project-4/</guid>
+      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+    </item>
+    
+    <item>
+      <title>Chapter I: The Grand Hall</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/project-1/</guid>
+      <description>CONCEPT
+The overall objective of this project was to develop an algorithm that can be used to analyze the pattern in which cabs operate in a city to try and predict the tip can be expected per fare. The idea for this project was based on the assumption that the trip history of cab drivers when combined with demographic data about the model the tipping habits of people at different locations, different points in time, and for different kinds of trips.</description>
+    </item>
+    
+  </channel>
+</rss>

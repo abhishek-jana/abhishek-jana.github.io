@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time series on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/time-series/</link>
+    <description>Recent content in time series on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jun 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rental Bike Share</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</link>
+      <pubDate>Mon, 27 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</guid>
+      <description>PROJECT REPORT: RENTAL BIKE SHARE This is an ongoing project. Please visit the GitHub repository: GitHub link to get the latest progress.
+CONCEPT
+The Rental Bike Share project aims to develop a system for managing and optimizing the rental of bikes in a city. The goal is to provide a user-friendly platform that allows users to easily rent bikes and helps the bike rental company in efficiently managing their inventory and operations.</description>
+    </item>
+    
+  </channel>
+</rss>

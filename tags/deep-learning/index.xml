@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/deep-learning/</link>
+    <description>Recent content in deep learning on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Jul 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fingerprint Verification System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/fingerprint/</link>
+      <pubDate>Sun, 03 Jul 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/fingerprint/</guid>
+      <description>PROJECT REPORT: FINGERPRINT VERIFICATION SYSTEM Led a team of six data scientists and engineers to design and implement a highly secure biometric user authentication system using Neural Fuzzy Extractor (NFE) and Artificial Neural Networks (ANN), achieving a marginal improvement in the equal error rate (EER) from 5.75% to 5.82%, while ensuring minimal loss of FVC2006 fingerprint data. Enhanced the precision of the fingerprint data by formulating a robust deep learning algorithm, specifically a Siamese Network with a triplet loss function, resulting in an Area Under Curve (AUC) score of 0.</description>
+    </item>
+    
+    <item>
+      <title>Create a Biometric Authenticator Using Deep Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</link>
+      <pubDate>Mon, 03 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</guid>
+      <description>What is biometric authentication? Biometric authentication is a mode of verifying a user based on some part of their physical features. Authentication is different from identification, where biometrics such as fingerprint, face, retina scan, etc. are used to identify a person. In authentication, biometrics are used to verify if a user is what they are claiming to be.
+Importance of biometric authenticator This is one of the most popular forms of security when it comes to digital identity.</description>
+    </item>
+    
+    <item>
+      <title>Computer Pointer Controller</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/computer_pointer/</link>
+      <pubDate>Thu, 27 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/computer_pointer/</guid>
+      <description>PROJECT REPORT: COMPUTER POINTER CONTROLLER Computer Pointer Controller app is built using Intel OpenVINO toolkit. This app is used to control mouse pointer using our eye and head movement. We can use a recorded video stream or a webcam directly for the input.
+Project Set Up and Installation To do this project, we need to first download the OpenVINO toolkit in our local machine. Instructions can be found here.
+To activate the environment open command prompt in windows then:</description>
+    </item>
+    
+    <item>
+      <title>People Counter App</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/people_counter/</link>
+      <pubDate>Tue, 13 Apr 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/people_counter/</guid>
+      <description>PROJECT REPPORT: PEOPLE COUNTER APP Programming Language: Python 3.5 or 3.6 What it Does The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. The app will detect people in a designated area, providing the number of people in the frame, average duration of people in frame, and total count.
+How it Works The counter will use the Inference Engine included in the Intel® Distribution of OpenVINO™ Toolkit.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/dl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/dl/</guid>
+      <description>Deep Learning:
+Proficient in PyTorch and Keras, I specialize in developing and fine-tuning deep learning models for tasks such as image classification, natural language processing, and computer vision.
+Artificial Neural Networks (ANN) Convolutional Neural Networks (CNN) Recurrent Neural Networks (RNN) Long Short-Term Memory (LSTM) Transfer Learning Autoencoders Necessary DL Tools:
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions.</description>
+    </item>
+    
+  </channel>
+</rss>

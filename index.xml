@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abhishek Jana on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/</link>
+    <description>Recent content in Abhishek Jana on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Jun 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Recommendation System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/movie_reco/</link>
+      <pubDate>Tue, 27 Jun 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/movie_reco/</guid>
+      <description>PROJECT REPORT: MOVIE RECOMMENDATION SYSTEM CONCEPT The Movie Recommendation System project aims to develop a movie recommendation system that suggests movies to users based on their preferences. The objective is to provide personalized movie recommendations using various recommendation methods, including content-based filtering (most popular movies), collaborative filtering, and user-specific recommendations.
+DATA The movie data for this project is gathered from the following sources:
+MovieLens: 27,000,000 ratings and 1,100,000 tag applications applied to 58,000 movies by 280,000 users.</description>
+    </item>
+    
+    <item>
+      <title>Secure architecture for biometric authentication</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub3/</link>
+      <pubDate>Thu, 30 Mar 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub3/</guid>
+      <description>Inventors: George T Amariucai, Pascal Hitzler, Abhishek Jana, Monireh Ebrahimi, Md Kamruzzaman Sarker
+Patent office: US
+Year: 2023
+Link: Link to Patent
+Abstract: Computer-implemented methods, systems and computer-readable media for building and using an artificial intelligence model for secure biometric authentication. Utilizing difference vectors, the model securely relates output vectors generated from noisy biometric data of a plurality of enrolled users to pre-defined fixed points in a vector space.</description>
+    </item>
+    
+    <item>
+      <title>Constraining Galaxy Halo Connection Using Machine Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub2/</link>
+      <pubDate>Sun, 15 Jan 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub2/</guid>
+      <description>Authors: Abhishek Jana, Lado Samushia
+Conference/Journal: American Astronomical Society Meeting Abstracts
+Year: 2023
+Link: Link to Publication
+Abstract: We investigate the possibility of modeling various measures of small-scale galaxy clustering with machine learning methods to constrain parameters of the halo occupation distribution (HOD) model. Using ML techniques results in faster Markov Chain Monte Carlo convergence (within minutes). We find that great care must be taken when using machine learning algorithms in this regime.</description>
+    </item>
+    
+    <item>
+      <title>Using NLP in Disaster Response</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</link>
+      <pubDate>Sat, 17 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</guid>
+      <description>In this blog, we’ll apply the ETL, NLP, and ML pipeline to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+This is one of the most critical problems in data science and machine learning. During a disaster, we get millions and millions of messages either directly or via social media. We’ll probably see 1 in 1000 relevant messages. A few critical words like water, blocked roads, and medical supplies are used during a disaster response.</description>
+    </item>
+    
+    <item>
+      <title>End-to-End Machine Learning Project with Deployment Part 1: Project Set-Up</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-7/</link>
+      <pubDate>Mon, 12 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-7/</guid>
+      <description>Many of us often make the mistake of jumping straight into coding when working on end-to-end projects. This approach can work well when dealing with small datasets that don’t need much preprocessing. In these cases, we can quickly train a predictive machine learning model and deploy it in the cloud. But this approach has its limitations. If the project is not set up correctly, the code may not be “reusable” or “scalable”, which can cause problems down the road.</description>
+    </item>
+    
+    <item>
+      <title>Disaster Response Pipeline</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</link>
+      <pubDate>Sat, 23 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</guid>
+      <description>PROJECT REPORT: DISASTER RESPONSE PROJECT Web Interface CONCEPT
+The goal of the Disaster-Response-Pipeline project was to develop a machine learning pipeline that could accurately categorize emergency messages received during a disaster event. The objective was to create an automated system that could quickly identify and classify relevant messages, enabling emergency responders to prioritize and respond effectively to different types of emergencies.
+DATA
+The dataset used for this project was obtained from Figure Eight, now Appen, and consisted of labeled text messages related to various disaster scenarios.</description>
+    </item>
+    
+    <item>
+      <title>Fingerprint Verification System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/fingerprint/</link>
+      <pubDate>Sun, 03 Jul 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/fingerprint/</guid>
+      <description>PROJECT REPORT: FINGERPRINT VERIFICATION SYSTEM Led a team of six data scientists and engineers to design and implement a highly secure biometric user authentication system using Neural Fuzzy Extractor (NFE) and Artificial Neural Networks (ANN), achieving a marginal improvement in the equal error rate (EER) from 5.75% to 5.82%, while ensuring minimal loss of FVC2006 fingerprint data. Enhanced the precision of the fingerprint data by formulating a robust deep learning algorithm, specifically a Siamese Network with a triplet loss function, resulting in an Area Under Curve (AUC) score of 0.</description>
+    </item>
+    
+    <item>
+      <title>Rental Bike Share</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</link>
+      <pubDate>Mon, 27 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</guid>
+      <description>PROJECT REPORT: RENTAL BIKE SHARE This is an ongoing project. Please visit the GitHub repository: GitHub link to get the latest progress.
+CONCEPT
+The Rental Bike Share project aims to develop a system for managing and optimizing the rental of bikes in a city. The goal is to provide a user-friendly platform that allows users to easily rent bikes and helps the bike rental company in efficiently managing their inventory and operations.</description>
+    </item>
+    
+    <item>
+      <title>Neural fuzzy extractors: A secure way to use artificial neural networks for biometric user authentication</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub1/</link>
+      <pubDate>Tue, 15 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub1/</guid>
+      <description>Authors: Abhishek Jana, Md Kamruzzaman Sarker, Monireh Ebrahimi, Pascal Hitzler, George T Amariucai
+Year: 2022
+Conference/Journal: Proceedings on Privacy Enhancing Technologies, 4, 86-104.
+Link: Link to Publication
+Abstract: In this paper, we introduce a secure way to handle user-specific information involved with the use of artificial neural networks for biometric authentication. Our proposed architecture, called a Neural Fuzzy Extractor (NFE), allows the coupling of pre-existing classifiers with fuzzy extractors, through an artificial-neuralnetwork-based buffer called an expander, with minimal or no performance degradation.</description>
+    </item>
+    
+    <item>
+      <title>Create a Biometric Authenticator Using Deep Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</link>
+      <pubDate>Mon, 03 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</guid>
+      <description>What is biometric authentication? Biometric authentication is a mode of verifying a user based on some part of their physical features. Authentication is different from identification, where biometrics such as fingerprint, face, retina scan, etc. are used to identify a person. In authentication, biometrics are used to verify if a user is what they are claiming to be.
+Importance of biometric authenticator This is one of the most popular forms of security when it comes to digital identity.</description>
+    </item>
+    
+    <item>
+      <title>Customer Spending Pojections at Starbucks</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</link>
+      <pubDate>Thu, 11 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</guid>
+      <description>PROJECT REPORT: CUSTOMER SPENDING PROJECTIONS AT STARBUCKS CONCEPT
+The Customer Spending Projections at Starbucks project aimed to analyze Starbucks&amp;rsquo; sales data to understand customer spending patterns and provide insights for offering personalized coupons and recommendations. The project leveraged a dataset consisting of customer profiles, promotional offers, and transaction logs to gain insights into purchase decisions and offer influence.
+DATASET OVERVIEW
+The dataset comprised three files: profile.json, portfolio.json, and transcript.json. The profile file contained information about rewards program users, including gender, age, income, and membership details.</description>
+    </item>
+    
+    <item>
+      <title>How AI and automation will shape our future?</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-2/</link>
+      <pubDate>Sun, 31 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-2/</guid>
+      <description>Due to technological advancements like automation, robots, and artificial intelligence the world is changing rapidly. One of the questions that keep coming up is how AI and automation will shape our future?
+In my opinion, there can be four possible scenarios in the next few years.
+Click on the image to read on Medium.</description>
+    </item>
+    
+    <item>
+      <title>Airbnb Housing Price Analysis</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</link>
+      <pubDate>Sun, 24 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</guid>
+      <description>PROJECT REPORT: AIRBNB HOUSING PRICE ANALYSIS CONCEPT
+The Airbnb Housing Price Analysis project aimed to explore and answer key business questions related to Airbnb data in Boston and Seattle. The analysis focused on determining the cheaper place to stay, the best time to visit, the popularity of each city among visitors, and the popular areas to stay along with the recommended type of housing.
+DATA
+The project utilized datasets for Boston and Seattle from Airbnb, including listings and calendar data.</description>
+    </item>
+    
+    <item>
+      <title>What is your next destination? Boston or Seattle!</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-1/</link>
+      <pubDate>Thu, 21 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-1/</guid>
+      <description>Boston is located on the east coast of the US, whereas Seattle is located on the west coast. If we compare the weathers, this is what we see:
+Boston, Massachusetts
+Summer High: the July high is around 82.4 degrees Winter Low: the January low is 19.2 Rain: averages 47.4 inches of rain a year Snow: averages 48.1 inches of snow a year Seattle, Washington
+Summer High: the July high is around 75.</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendation System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/book_reco/</link>
+      <pubDate>Sun, 27 Jun 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/book_reco/</guid>
+      <description>PROJECT REPORT: BOOK RECOMMENDATION SYSTEM CONCEPT The Book Recommendation System project aims to develop a book recommendation system that suggests books to users based on their preferences. The objective is to provide personalized book recommendations using collaborative filtering.
+DATA The book data for this project is gathered from the following sources:
+Goodreads API: An API that provides access to book data, including book titles, authors, genres, ratings, and reviews. APPROACH The project utilizes the following workflows to generate book recommendations:</description>
+    </item>
+    
+    <item>
+      <title>Computer Pointer Controller</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/computer_pointer/</link>
+      <pubDate>Thu, 27 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/computer_pointer/</guid>
+      <description>PROJECT REPORT: COMPUTER POINTER CONTROLLER Computer Pointer Controller app is built using Intel OpenVINO toolkit. This app is used to control mouse pointer using our eye and head movement. We can use a recorded video stream or a webcam directly for the input.
+Project Set Up and Installation To do this project, we need to first download the OpenVINO toolkit in our local machine. Instructions can be found here.
+To activate the environment open command prompt in windows then:</description>
+    </item>
+    
+    <item>
+      <title>People Counter App</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/people_counter/</link>
+      <pubDate>Tue, 13 Apr 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/people_counter/</guid>
+      <description>PROJECT REPPORT: PEOPLE COUNTER APP Programming Language: Python 3.5 or 3.6 What it Does The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. The app will detect people in a designated area, providing the number of people in the frame, average duration of people in frame, and total count.
+How it Works The counter will use the Inference Engine included in the Intel® Distribution of OpenVINO™ Toolkit.</description>
+    </item>
+    
+    <item>
+      <title>Starbucks Sales Analysis - Part 1</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-6/</link>
+      <pubDate>Thu, 11 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-6/</guid>
+      <description>Every data tells a story! In this blog I analyzed the Starbucks ’ sales data.
+Dataset Overview The data was created to get an overview of the following things:
+To observe the purchase decision of people based on different promotional offers. There are three types of offers: BOGO ( buy one get one ), discount, and informational. I wanted to see the influence of these offers on purchases. Finally, I wanted to see how the offers influence a particular group of people.</description>
+    </item>
+    
+    <item>
+      <title>Starbucks Sales Analysis - Part 2</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-3/</link>
+      <pubDate>Thu, 11 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-3/</guid>
+      <description>In Part 2 I will try to address two remaining questions:
+How to recommend coupons/offers to current customers based on their spending pattern? How to recommend coupons/offers to new customers? I will show you how to build a recommendation system to recommend ideal users for each offer.
+In other words, my goal is to recommend the best offers to the existing users. In this system, we select an existing offer and recommend top n users for that offer.</description>
+    </item>
+    
+    <item>
+      <title>Possibilities of Present Day Acceleration Using Double Scalar Field</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub5/</link>
+      <pubDate>Sun, 15 Mar 2015 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub5/</guid>
+      <description>Authors: Abhishek Jana
+Conference/Journal: Indian Institute of Science Education and Research Kolkata
+Year: 2016
+Link: Link to Publication
+Abstract: The present work deals with a dark energy model with two scalar fields. Such a model has been proved to be successful in providing a model for in ation in the early universe. With two scalar fields, one has a better handle on the model parameters. The ultimate motivation is to use this freedom to construct a model which can drive acceleration both at early and the late time acceleration.</description>
+    </item>
+    
+    <item>
+      <title>ScalPy: A Python Package For Late Time Scalar Field Cosmology</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub4/</link>
+      <pubDate>Sun, 15 Mar 2015 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub4/</guid>
+      <description>Authors: Sumit Kumar, Abhishek Jana, Anjan A Sen
+Conference/Journal: arXiv preprint arXiv:1503.02407
+Year: 2015
+Link: Link to Publication
+Abstract: We present a python package &amp;ldquo;ScalPy&amp;rdquo; for studying the late time scalar field cosmology for a wide variety of scalar field models, namely the quintessence, tachyon and Galileon model. The package solves the autonomous system of equations for power law and exponential potential. But it can be easily generalized to add more complicated potential.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/about/</guid>
+      <description>Hi! I&amp;rsquo;m a final-year Ph.D. graduate from Kansas State University (KSU), where my focus on astrophysics has fueled my passion for data science and machine learning in the real world.
+At Kansas State University (KSU), I am working on modeling galaxy-halo connections using machine learning techniques. This experience revealed the immense possibilities of these methods beyond astrophysics, igniting my curiosity for their practical applications in various industries.
+I had the opportunity to collaborate with Dr.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform URL Website: https://www.aiwithabhi.me LinkedIn: https://www.linkedin.com/in/ajana-1992/ Medium: https://medium.com/@abhijana GitHub: https://github.com/abhishek-jana </description>
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/data_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/data_analysis/</guid>
+      <description>Proficient in utilizing tools such as TensorFlow, NumPy, SciPy, Pandas, Keras, SciKit-Learn, PyTorch, and BeautifulSoup for efficient data analysis, manipulation, and preprocessing.
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions. SciPy: A library for scientific and technical computing, offering a collection of numerical algorithms and tools. SciKit-Learn: A machine learning library that offers a wide range of algorithms and tools for data preprocessing, modeling, and evaluation.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/data_visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/data_visualization/</guid>
+      <description>Skilled in creating visually appealing and informative data visualizations using Matplotlib, Plotly, and Seaborn to effectively communicate insights and patterns in data.
+Matplotlib: A plotting library for creating static, animated, and interactive visualizations in Python. Plotly: An interactive visualization library that offers a wide range of charts and graphs, suitable for creating interactive web-based visualizations. Seaborn: A data visualization library based on Matplotlib that provides a high-level interface for creating informative and attractive statistical graphics.</description>
+    </item>
+    
+    <item>
+      <title>Databases &amp; MLOps</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/database_mlops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/database_mlops/</guid>
+      <description>Experienced in working with databases like SQLite, MongoDB, and Apache Cassandra, along with MLOps tools such as GIT, DVC (Data Version Control), MLflow, CircleCI, and Docker, ensuring seamless data management, version control, and deployment in machine learning projects.
+Databases:
+SQLite: A lightweight, serverless, and self-contained SQL database engine. MongoDB: A flexible, scalable, and document-oriented NoSQL database. Apache Cassandra: A highly scalable and distributed NoSQL database known for its fault-tolerance and high availability.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/dl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/dl/</guid>
+      <description>Deep Learning:
+Proficient in PyTorch and Keras, I specialize in developing and fine-tuning deep learning models for tasks such as image classification, natural language processing, and computer vision.
+Artificial Neural Networks (ANN) Convolutional Neural Networks (CNN) Recurrent Neural Networks (RNN) Long Short-Term Memory (LSTM) Transfer Learning Autoencoders Necessary DL Tools:
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions.</description>
+    </item>
+    
+    <item>
+      <title>Deployment</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/deployment/</guid>
+      <description>Well-versed in deploying machine learning models using cloud platforms like AWS, Azure, or Google Cloud, along with containerization technologies like Docker, ensuring scalable and efficient deployment of models in production environments.
+AWS (Amazon Web Services): A comprehensive cloud computing platform that offers a wide range of services and tools for computing power, storage, database management, networking, and more. Azure: Microsoft&amp;rsquo;s cloud computing platform that provides a suite of integrated services for building, deploying, and managing applications and services through Microsoft-managed data centers.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/ml/</guid>
+      <description>Machine Learning:
+Utilizing frameworks such as TensorFlow, Keras, and SciKit-Learn, I develop and deploy machine learning models that drive predictive analytics and facilitate data-driven decision-making.
+Linear Regression K-means Clustering PCA (Principal Component Analysis) Decision Tree Random Forest SVM (Support Vector Machines) KNN (K-Nearest Neighbors) Adaboost XGBoost Necessary ML Tools:
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions.</description>
+    </item>
+    
+    <item>
+      <title>Necessary Tools</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/necessary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/necessary/</guid>
+      <description>In addition to the specific tools mentioned earlier, I also leverage a range of other necessary tools to enhance my work as a data scientist. These tools include:
+Power BI: A business intelligence and data visualization tool that allows users to create interactive reports and dashboards. Visual Studio: An integrated development environment (IDE) for building a variety of applications, including web, desktop, mobile, and cloud-based solutions. PyCharm: A powerful Python IDE with advanced features for code editing, debugging, and code analysis, enhancing productivity in Python development.</description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/nlp/</guid>
+      <description>Natural Language Processing (NLP): I leverage NLP techniques to analyze and understand textual data, enabling automation, sentiment analysis, information retrieval, and more.
+NLP Concepts: In my work with NLP, I apply a variety of concepts and techniques, including:
+Tokenization: Breaking text into smaller units, such as words or sentences, for analysis. Named Entity Recognition (NER): Identifying and classifying named entities, such as people, organizations, and locations. Part-of-Speech Tagging (POS): Assigning grammatical tags to words, such as noun, verb, or adjective.</description>
+    </item>
+    
+    <item>
+      <title>Programming Languages</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/programming/</guid>
+      <description>Fluent in languages such as Python, SQL, I possess a versatile skill set that allows me to develop robust and scalable solutions across a wide range of programming paradigms.
+Proficient: Python SQL (MySQL) Familiar with: R Matlab HTML CSS JavaScript PHP </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/resume/</guid>
+      <description>To access the downloadable version: click here</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/skills/</link>
+    <description>Recent content in Skills on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Analysis</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/data_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/data_analysis/</guid>
+      <description>Proficient in utilizing tools such as TensorFlow, NumPy, SciPy, Pandas, Keras, SciKit-Learn, PyTorch, and BeautifulSoup for efficient data analysis, manipulation, and preprocessing.
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions. SciPy: A library for scientific and technical computing, offering a collection of numerical algorithms and tools. SciKit-Learn: A machine learning library that offers a wide range of algorithms and tools for data preprocessing, modeling, and evaluation.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/data_visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/data_visualization/</guid>
+      <description>Skilled in creating visually appealing and informative data visualizations using Matplotlib, Plotly, and Seaborn to effectively communicate insights and patterns in data.
+Matplotlib: A plotting library for creating static, animated, and interactive visualizations in Python. Plotly: An interactive visualization library that offers a wide range of charts and graphs, suitable for creating interactive web-based visualizations. Seaborn: A data visualization library based on Matplotlib that provides a high-level interface for creating informative and attractive statistical graphics.</description>
+    </item>
+    
+    <item>
+      <title>Databases &amp; MLOps</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/database_mlops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/database_mlops/</guid>
+      <description>Experienced in working with databases like SQLite, MongoDB, and Apache Cassandra, along with MLOps tools such as GIT, DVC (Data Version Control), MLflow, CircleCI, and Docker, ensuring seamless data management, version control, and deployment in machine learning projects.
+Databases:
+SQLite: A lightweight, serverless, and self-contained SQL database engine. MongoDB: A flexible, scalable, and document-oriented NoSQL database. Apache Cassandra: A highly scalable and distributed NoSQL database known for its fault-tolerance and high availability.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/dl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/dl/</guid>
+      <description>Deep Learning:
+Proficient in PyTorch and Keras, I specialize in developing and fine-tuning deep learning models for tasks such as image classification, natural language processing, and computer vision.
+Artificial Neural Networks (ANN) Convolutional Neural Networks (CNN) Recurrent Neural Networks (RNN) Long Short-Term Memory (LSTM) Transfer Learning Autoencoders Necessary DL Tools:
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions.</description>
+    </item>
+    
+    <item>
+      <title>Deployment</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/deployment/</guid>
+      <description>Well-versed in deploying machine learning models using cloud platforms like AWS, Azure, or Google Cloud, along with containerization technologies like Docker, ensuring scalable and efficient deployment of models in production environments.
+AWS (Amazon Web Services): A comprehensive cloud computing platform that offers a wide range of services and tools for computing power, storage, database management, networking, and more. Azure: Microsoft&amp;rsquo;s cloud computing platform that provides a suite of integrated services for building, deploying, and managing applications and services through Microsoft-managed data centers.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/ml/</guid>
+      <description>Machine Learning:
+Utilizing frameworks such as TensorFlow, Keras, and SciKit-Learn, I develop and deploy machine learning models that drive predictive analytics and facilitate data-driven decision-making.
+Linear Regression K-means Clustering PCA (Principal Component Analysis) Decision Tree Random Forest SVM (Support Vector Machines) KNN (K-Nearest Neighbors) Adaboost XGBoost Necessary ML Tools:
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions.</description>
+    </item>
+    
+    <item>
+      <title>Necessary Tools</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/necessary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/necessary/</guid>
+      <description>In addition to the specific tools mentioned earlier, I also leverage a range of other necessary tools to enhance my work as a data scientist. These tools include:
+Power BI: A business intelligence and data visualization tool that allows users to create interactive reports and dashboards. Visual Studio: An integrated development environment (IDE) for building a variety of applications, including web, desktop, mobile, and cloud-based solutions. PyCharm: A powerful Python IDE with advanced features for code editing, debugging, and code analysis, enhancing productivity in Python development.</description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/nlp/</guid>
+      <description>Natural Language Processing (NLP): I leverage NLP techniques to analyze and understand textual data, enabling automation, sentiment analysis, information retrieval, and more.
+NLP Concepts: In my work with NLP, I apply a variety of concepts and techniques, including:
+Tokenization: Breaking text into smaller units, such as words or sentences, for analysis. Named Entity Recognition (NER): Identifying and classifying named entities, such as people, organizations, and locations. Part-of-Speech Tagging (POS): Assigning grammatical tags to words, such as noun, verb, or adjective.</description>
+    </item>
+    
+    <item>
+      <title>Programming Languages</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/programming/</guid>
+      <description>Fluent in languages such as Python, SQL, I possess a versatile skill set that allows me to develop robust and scalable solutions across a wide range of programming paradigms.
+Proficient: Python SQL (MySQL) Familiar with: R Matlab HTML CSS JavaScript PHP </description>
+    </item>
+    
+  </channel>
+</rss>

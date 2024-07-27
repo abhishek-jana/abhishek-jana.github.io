@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deployment on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/deployment/</link>
+    <description>Recent content in deployment on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deployment</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/deployment/</guid>
+      <description>Well-versed in deploying machine learning models using cloud platforms like AWS, Azure, or Google Cloud, along with containerization technologies like Docker, ensuring scalable and efficient deployment of models in production environments.
+AWS (Amazon Web Services): A comprehensive cloud computing platform that offers a wide range of services and tools for computing power, storage, database management, networking, and more. Azure: Microsoft&amp;rsquo;s cloud computing platform that provides a suite of integrated services for building, deploying, and managing applications and services through Microsoft-managed data centers.</description>
+    </item>
+    
+  </channel>
+</rss>

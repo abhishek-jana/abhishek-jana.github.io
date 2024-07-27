@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/</link>
+    <description>Recent content in Tags on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Jun 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>recommendation</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/recommendation/</link>
+      <pubDate>Tue, 27 Jun 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data analysis</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/data-analysis/</link>
+      <pubDate>Sat, 17 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data visualization</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/data-visualization/</link>
+      <pubDate>Sat, 17 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/machine-learning/</link>
+      <pubDate>Sat, 17 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/nlp/</link>
+      <pubDate>Sat, 17 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/deep-learning/</link>
+      <pubDate>Sun, 03 Jul 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time series</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/time-series/</link>
+      <pubDate>Mon, 27 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data visualizaion</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/data-visualizaion/</link>
+      <pubDate>Thu, 11 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/data-visualizaion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deployment</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mlops</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/tags/mlops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/tags/mlops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

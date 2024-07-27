@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data visualizaion on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/data-visualizaion/</link>
+    <description>Recent content in data visualizaion on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Nov 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/data-visualizaion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer Spending Pojections at Starbucks</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</link>
+      <pubDate>Thu, 11 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</guid>
+      <description>PROJECT REPORT: CUSTOMER SPENDING PROJECTIONS AT STARBUCKS CONCEPT
+The Customer Spending Projections at Starbucks project aimed to analyze Starbucks&amp;rsquo; sales data to understand customer spending patterns and provide insights for offering personalized coupons and recommendations. The project leveraged a dataset consisting of customer profiles, promotional offers, and transaction logs to gain insights into purchase decisions and offer influence.
+DATASET OVERVIEW
+The dataset comprised three files: profile.json, portfolio.json, and transcript.json. The profile file contained information about rewards program users, including gender, age, income, and membership details.</description>
+    </item>
+    
+  </channel>
+</rss>

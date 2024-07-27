@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nlp on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/nlp/</link>
+    <description>Recent content in nlp on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Dec 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using NLP in Disaster Response</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</link>
+      <pubDate>Sat, 17 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</guid>
+      <description>In this blog, we’ll apply the ETL, NLP, and ML pipeline to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+This is one of the most critical problems in data science and machine learning. During a disaster, we get millions and millions of messages either directly or via social media. We’ll probably see 1 in 1000 relevant messages. A few critical words like water, blocked roads, and medical supplies are used during a disaster response.</description>
+    </item>
+    
+    <item>
+      <title>Disaster Response Pipeline</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</link>
+      <pubDate>Sat, 23 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</guid>
+      <description>PROJECT REPORT: DISASTER RESPONSE PROJECT Web Interface CONCEPT
+The goal of the Disaster-Response-Pipeline project was to develop a machine learning pipeline that could accurately categorize emergency messages received during a disaster event. The objective was to create an automated system that could quickly identify and classify relevant messages, enabling emergency responders to prioritize and respond effectively to different types of emergencies.
+DATA
+The dataset used for this project was obtained from Figure Eight, now Appen, and consisted of labeled text messages related to various disaster scenarios.</description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/nlp/</guid>
+      <description>Natural Language Processing (NLP): I leverage NLP techniques to analyze and understand textual data, enabling automation, sentiment analysis, information retrieval, and more.
+NLP Concepts: In my work with NLP, I apply a variety of concepts and techniques, including:
+Tokenization: Breaking text into smaller units, such as words or sentences, for analysis. Named Entity Recognition (NER): Identifying and classifying named entities, such as people, organizations, and locations. Part-of-Speech Tagging (POS): Assigning grammatical tags to words, such as noun, verb, or adjective.</description>
+    </item>
+    
+  </channel>
+</rss>

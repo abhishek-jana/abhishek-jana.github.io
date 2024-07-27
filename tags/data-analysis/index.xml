@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data analysis on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/data-analysis/</link>
+    <description>Recent content in data analysis on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Dec 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using NLP in Disaster Response</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</link>
+      <pubDate>Sat, 17 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</guid>
+      <description>In this blog, we’ll apply the ETL, NLP, and ML pipeline to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+This is one of the most critical problems in data science and machine learning. During a disaster, we get millions and millions of messages either directly or via social media. We’ll probably see 1 in 1000 relevant messages. A few critical words like water, blocked roads, and medical supplies are used during a disaster response.</description>
+    </item>
+    
+    <item>
+      <title>End-to-End Machine Learning Project with Deployment Part 1: Project Set-Up</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-7/</link>
+      <pubDate>Mon, 12 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-7/</guid>
+      <description>Many of us often make the mistake of jumping straight into coding when working on end-to-end projects. This approach can work well when dealing with small datasets that don’t need much preprocessing. In these cases, we can quickly train a predictive machine learning model and deploy it in the cloud. But this approach has its limitations. If the project is not set up correctly, the code may not be “reusable” or “scalable”, which can cause problems down the road.</description>
+    </item>
+    
+    <item>
+      <title>Disaster Response Pipeline</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</link>
+      <pubDate>Sat, 23 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</guid>
+      <description>PROJECT REPORT: DISASTER RESPONSE PROJECT Web Interface CONCEPT
+The goal of the Disaster-Response-Pipeline project was to develop a machine learning pipeline that could accurately categorize emergency messages received during a disaster event. The objective was to create an automated system that could quickly identify and classify relevant messages, enabling emergency responders to prioritize and respond effectively to different types of emergencies.
+DATA
+The dataset used for this project was obtained from Figure Eight, now Appen, and consisted of labeled text messages related to various disaster scenarios.</description>
+    </item>
+    
+    <item>
+      <title>Rental Bike Share</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</link>
+      <pubDate>Mon, 27 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</guid>
+      <description>PROJECT REPORT: RENTAL BIKE SHARE This is an ongoing project. Please visit the GitHub repository: GitHub link to get the latest progress.
+CONCEPT
+The Rental Bike Share project aims to develop a system for managing and optimizing the rental of bikes in a city. The goal is to provide a user-friendly platform that allows users to easily rent bikes and helps the bike rental company in efficiently managing their inventory and operations.</description>
+    </item>
+    
+    <item>
+      <title>Customer Spending Pojections at Starbucks</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</link>
+      <pubDate>Thu, 11 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</guid>
+      <description>PROJECT REPORT: CUSTOMER SPENDING PROJECTIONS AT STARBUCKS CONCEPT
+The Customer Spending Projections at Starbucks project aimed to analyze Starbucks&amp;rsquo; sales data to understand customer spending patterns and provide insights for offering personalized coupons and recommendations. The project leveraged a dataset consisting of customer profiles, promotional offers, and transaction logs to gain insights into purchase decisions and offer influence.
+DATASET OVERVIEW
+The dataset comprised three files: profile.json, portfolio.json, and transcript.json. The profile file contained information about rewards program users, including gender, age, income, and membership details.</description>
+    </item>
+    
+    <item>
+      <title>Airbnb Housing Price Analysis</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</link>
+      <pubDate>Sun, 24 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</guid>
+      <description>PROJECT REPORT: AIRBNB HOUSING PRICE ANALYSIS CONCEPT
+The Airbnb Housing Price Analysis project aimed to explore and answer key business questions related to Airbnb data in Boston and Seattle. The analysis focused on determining the cheaper place to stay, the best time to visit, the popularity of each city among visitors, and the popular areas to stay along with the recommended type of housing.
+DATA
+The project utilized datasets for Boston and Seattle from Airbnb, including listings and calendar data.</description>
+    </item>
+    
+    <item>
+      <title>What is your next destination? Boston or Seattle!</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-1/</link>
+      <pubDate>Thu, 21 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-1/</guid>
+      <description>Boston is located on the east coast of the US, whereas Seattle is located on the west coast. If we compare the weathers, this is what we see:
+Boston, Massachusetts
+Summer High: the July high is around 82.4 degrees Winter Low: the January low is 19.2 Rain: averages 47.4 inches of rain a year Snow: averages 48.1 inches of snow a year Seattle, Washington
+Summer High: the July high is around 75.</description>
+    </item>
+    
+    <item>
+      <title>Starbucks Sales Analysis - Part 1</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-6/</link>
+      <pubDate>Thu, 11 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-6/</guid>
+      <description>Every data tells a story! In this blog I analyzed the Starbucks ’ sales data.
+Dataset Overview The data was created to get an overview of the following things:
+To observe the purchase decision of people based on different promotional offers. There are three types of offers: BOGO ( buy one get one ), discount, and informational. I wanted to see the influence of these offers on purchases. Finally, I wanted to see how the offers influence a particular group of people.</description>
+    </item>
+    
+    <item>
+      <title>Starbucks Sales Analysis - Part 2</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-3/</link>
+      <pubDate>Thu, 11 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-3/</guid>
+      <description>In Part 2 I will try to address two remaining questions:
+How to recommend coupons/offers to current customers based on their spending pattern? How to recommend coupons/offers to new customers? I will show you how to build a recommendation system to recommend ideal users for each offer.
+In other words, my goal is to recommend the best offers to the existing users. In this system, we select an existing offer and recommend top n users for that offer.</description>
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/data_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/data_analysis/</guid>
+      <description>Proficient in utilizing tools such as TensorFlow, NumPy, SciPy, Pandas, Keras, SciKit-Learn, PyTorch, and BeautifulSoup for efficient data analysis, manipulation, and preprocessing.
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions. SciPy: A library for scientific and technical computing, offering a collection of numerical algorithms and tools. SciKit-Learn: A machine learning library that offers a wide range of algorithms and tools for data preprocessing, modeling, and evaluation.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/dl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/dl/</guid>
+      <description>Deep Learning:
+Proficient in PyTorch and Keras, I specialize in developing and fine-tuning deep learning models for tasks such as image classification, natural language processing, and computer vision.
+Artificial Neural Networks (ANN) Convolutional Neural Networks (CNN) Recurrent Neural Networks (RNN) Long Short-Term Memory (LSTM) Transfer Learning Autoencoders Necessary DL Tools:
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/ml/</guid>
+      <description>Machine Learning:
+Utilizing frameworks such as TensorFlow, Keras, and SciKit-Learn, I develop and deploy machine learning models that drive predictive analytics and facilitate data-driven decision-making.
+Linear Regression K-means Clustering PCA (Principal Component Analysis) Decision Tree Random Forest SVM (Support Vector Machines) KNN (K-Nearest Neighbors) Adaboost XGBoost Necessary ML Tools:
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions.</description>
+    </item>
+    
+  </channel>
+</rss>

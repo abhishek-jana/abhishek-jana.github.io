@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mlops on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/mlops/</link>
+    <description>Recent content in mlops on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/mlops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Databases &amp; MLOps</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/database_mlops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/database_mlops/</guid>
+      <description>Experienced in working with databases like SQLite, MongoDB, and Apache Cassandra, along with MLOps tools such as GIT, DVC (Data Version Control), MLflow, CircleCI, and Docker, ensuring seamless data management, version control, and deployment in machine learning projects.
+Databases:
+SQLite: A lightweight, serverless, and self-contained SQL database engine. MongoDB: A flexible, scalable, and document-oriented NoSQL database. Apache Cassandra: A highly scalable and distributed NoSQL database known for its fault-tolerance and high availability.</description>
+    </item>
+    
+  </channel>
+</rss>

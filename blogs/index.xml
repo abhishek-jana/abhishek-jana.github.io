@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/blogs/</link>
+    <description>Recent content in Blogs on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using NLP in Disaster Response</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</link>
+      <pubDate>Sat, 17 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</guid>
+      <description>In this blog, we’ll apply the ETL, NLP, and ML pipeline to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+This is one of the most critical problems in data science and machine learning. During a disaster, we get millions and millions of messages either directly or via social media. We’ll probably see 1 in 1000 relevant messages. A few critical words like water, blocked roads, and medical supplies are used during a disaster response.</description>
+    </item>
+    
+    <item>
+      <title>End-to-End Machine Learning Project with Deployment Part 1: Project Set-Up</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-7/</link>
+      <pubDate>Mon, 12 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-7/</guid>
+      <description>Many of us often make the mistake of jumping straight into coding when working on end-to-end projects. This approach can work well when dealing with small datasets that don’t need much preprocessing. In these cases, we can quickly train a predictive machine learning model and deploy it in the cloud. But this approach has its limitations. If the project is not set up correctly, the code may not be “reusable” or “scalable”, which can cause problems down the road.</description>
+    </item>
+    
+    <item>
+      <title>Create a Biometric Authenticator Using Deep Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</link>
+      <pubDate>Mon, 03 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</guid>
+      <description>What is biometric authentication? Biometric authentication is a mode of verifying a user based on some part of their physical features. Authentication is different from identification, where biometrics such as fingerprint, face, retina scan, etc. are used to identify a person. In authentication, biometrics are used to verify if a user is what they are claiming to be.
+Importance of biometric authenticator This is one of the most popular forms of security when it comes to digital identity.</description>
+    </item>
+    
+    <item>
+      <title>How AI and automation will shape our future?</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-2/</link>
+      <pubDate>Sun, 31 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-2/</guid>
+      <description>Due to technological advancements like automation, robots, and artificial intelligence the world is changing rapidly. One of the questions that keep coming up is how AI and automation will shape our future?
+In my opinion, there can be four possible scenarios in the next few years.
+Click on the image to read on Medium.</description>
+    </item>
+    
+    <item>
+      <title>What is your next destination? Boston or Seattle!</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-1/</link>
+      <pubDate>Thu, 21 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-1/</guid>
+      <description>Boston is located on the east coast of the US, whereas Seattle is located on the west coast. If we compare the weathers, this is what we see:
+Boston, Massachusetts
+Summer High: the July high is around 82.4 degrees Winter Low: the January low is 19.2 Rain: averages 47.4 inches of rain a year Snow: averages 48.1 inches of snow a year Seattle, Washington
+Summer High: the July high is around 75.</description>
+    </item>
+    
+    <item>
+      <title>Starbucks Sales Analysis - Part 1</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-6/</link>
+      <pubDate>Thu, 11 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-6/</guid>
+      <description>Every data tells a story! In this blog I analyzed the Starbucks ’ sales data.
+Dataset Overview The data was created to get an overview of the following things:
+To observe the purchase decision of people based on different promotional offers. There are three types of offers: BOGO ( buy one get one ), discount, and informational. I wanted to see the influence of these offers on purchases. Finally, I wanted to see how the offers influence a particular group of people.</description>
+    </item>
+    
+    <item>
+      <title>Starbucks Sales Analysis - Part 2</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-3/</link>
+      <pubDate>Thu, 11 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-3/</guid>
+      <description>In Part 2 I will try to address two remaining questions:
+How to recommend coupons/offers to current customers based on their spending pattern? How to recommend coupons/offers to new customers? I will show you how to build a recommendation system to recommend ideal users for each offer.
+In other words, my goal is to recommend the best offers to the existing users. In this system, we select an existing offer and recommend top n users for that offer.</description>
+    </item>
+    
+  </channel>
+</rss>

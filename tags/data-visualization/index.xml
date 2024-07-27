@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data visualization on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/data-visualization/</link>
+    <description>Recent content in data visualization on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Dec 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using NLP in Disaster Response</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</link>
+      <pubDate>Sat, 17 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</guid>
+      <description>In this blog, we’ll apply the ETL, NLP, and ML pipeline to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+This is one of the most critical problems in data science and machine learning. During a disaster, we get millions and millions of messages either directly or via social media. We’ll probably see 1 in 1000 relevant messages. A few critical words like water, blocked roads, and medical supplies are used during a disaster response.</description>
+    </item>
+    
+    <item>
+      <title>Disaster Response Pipeline</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</link>
+      <pubDate>Sat, 23 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</guid>
+      <description>PROJECT REPORT: DISASTER RESPONSE PROJECT Web Interface CONCEPT
+The goal of the Disaster-Response-Pipeline project was to develop a machine learning pipeline that could accurately categorize emergency messages received during a disaster event. The objective was to create an automated system that could quickly identify and classify relevant messages, enabling emergency responders to prioritize and respond effectively to different types of emergencies.
+DATA
+The dataset used for this project was obtained from Figure Eight, now Appen, and consisted of labeled text messages related to various disaster scenarios.</description>
+    </item>
+    
+    <item>
+      <title>Rental Bike Share</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</link>
+      <pubDate>Mon, 27 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</guid>
+      <description>PROJECT REPORT: RENTAL BIKE SHARE This is an ongoing project. Please visit the GitHub repository: GitHub link to get the latest progress.
+CONCEPT
+The Rental Bike Share project aims to develop a system for managing and optimizing the rental of bikes in a city. The goal is to provide a user-friendly platform that allows users to easily rent bikes and helps the bike rental company in efficiently managing their inventory and operations.</description>
+    </item>
+    
+    <item>
+      <title>Airbnb Housing Price Analysis</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</link>
+      <pubDate>Sun, 24 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</guid>
+      <description>PROJECT REPORT: AIRBNB HOUSING PRICE ANALYSIS CONCEPT
+The Airbnb Housing Price Analysis project aimed to explore and answer key business questions related to Airbnb data in Boston and Seattle. The analysis focused on determining the cheaper place to stay, the best time to visit, the popularity of each city among visitors, and the popular areas to stay along with the recommended type of housing.
+DATA
+The project utilized datasets for Boston and Seattle from Airbnb, including listings and calendar data.</description>
+    </item>
+    
+    <item>
+      <title>Starbucks Sales Analysis - Part 1</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-6/</link>
+      <pubDate>Thu, 11 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-6/</guid>
+      <description>Every data tells a story! In this blog I analyzed the Starbucks ’ sales data.
+Dataset Overview The data was created to get an overview of the following things:
+To observe the purchase decision of people based on different promotional offers. There are three types of offers: BOGO ( buy one get one ), discount, and informational. I wanted to see the influence of these offers on purchases. Finally, I wanted to see how the offers influence a particular group of people.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/data_visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/data_visualization/</guid>
+      <description>Skilled in creating visually appealing and informative data visualizations using Matplotlib, Plotly, and Seaborn to effectively communicate insights and patterns in data.
+Matplotlib: A plotting library for creating static, animated, and interactive visualizations in Python. Plotly: An interactive visualization library that offers a wide range of charts and graphs, suitable for creating interactive web-based visualizations. Seaborn: A data visualization library based on Matplotlib that provides a high-level interface for creating informative and attractive statistical graphics.</description>
+    </item>
+    
+  </channel>
+</rss>
