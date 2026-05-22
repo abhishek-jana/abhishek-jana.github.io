@@ -6,7 +6,6 @@ const Publications = () => {
   const stats = [
     { label: 'High-impact Publications', value: '5' },
     { label: 'Total Citations', value: '900+' },
-    { label: 'Journal Reviewer', value: 'Expert' },
   ];
 
   const highlights = [
