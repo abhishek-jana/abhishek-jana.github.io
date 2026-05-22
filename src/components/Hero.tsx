@@ -11,7 +11,7 @@ const Hero = () => {
         </div>
         <h2 className="hero-greeting">Hi, I'm</h2>
         <h1 className="hero-name">Abhishek Jana</h1>
-        <h3 className="hero-title">PhD in Astrophysics | AI/ML Researcher and Storyteller</h3>
+        <h3 className="hero-title">Senior AI Research Scientist</h3>
         <p className="hero-description">
           Bridging the gap between theoretical research and scalable practical applications. 
           10+ years of experience in Generative AI, MLOps, 
