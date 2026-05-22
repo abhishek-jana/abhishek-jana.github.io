@@ -3,6 +3,11 @@ import { ArrowRight, Github, Linkedin, Mail, GraduationCap, BookOpen } from 'luc
 import '../styles/Hero.css';
 
 const Hero = () => {
+  const handleScroll = (id: string) => {
+    const element = document.getElementById(id);
+    if (element) element.scrollIntoView({ behavior: 'smooth' });
+  };
+
   return (
     <section className="hero">
       <div className="hero-content">
@@ -19,10 +24,12 @@ const Hero = () => {
         </p>
         
         <div className="hero-actions">
-          <a href="#projects" className="btn btn-primary">
-            View My Work <ArrowRight size={18} style={{ marginLeft: '8px' }} />
-          </a>
-          <a href="#contact" className="btn btn-outline">Contact Me</a>
+          <button onClick={() => handleScroll('projects')} className="btn btn-primary" style={{ border: 'none', fontFamily: 'inherit' }}>
+            View My Work <ArrowRight size={18} style={{ marginLeft: '8px', verticalAlign: 'middle' }} />
+          </button>
+          <button onClick={() => handleScroll('contact')} className="btn btn-outline" style={{ background: 'none', fontFamily: 'inherit' }}>
+            Contact Me
+          </button>
         </div>
 
         <div className="hero-socials">
