@@ -16,11 +16,11 @@ const Contact = () => {
           <div className="contact-methods">
             <div className="method">
               <Mail className="method-icon" />
-              <span>hello@abhishekjana.com</span>
+              <span>ajana.work@gmail.com</span>
             </div>
             <div className="method">
               <MessageSquare className="method-icon" />
-              <span>LinkedIn Message</span>
+              <a href="https://linkedin.com/in/abhijan" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit' }}>Connect on LinkedIn</a>
             </div>
           </div>
         </div>

@@ -29,7 +29,7 @@ const Hero = () => {
           <a href="https://github.com/abhishek-jana" target="_blank" rel="noopener noreferrer"><Github size={24} /></a>
           <a href="https://linkedin.com/in/abhijan" target="_blank" rel="noopener noreferrer"><Linkedin size={24} /></a>
           <a href="https://scholar.google.com/citations?user=DCN3neAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar"><GraduationCap size={24} /></a>
-          <a href="mailto:hello@abhishekjana.com"><Mail size={24} /></a>
+          <a href="mailto:ajana.work@gmail.com"><Mail size={24} /></a>
         </div>
       </div>
     </section>
